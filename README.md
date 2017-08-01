@@ -16,3 +16,7 @@ It's only about 30 lines of code, but I needed something so I could track what E
 ## Screenshot
 
 ![Retro-JoypadTester](https://raw.githubusercontent.com/Jaruzel/Retro-JoypadTester/master/screenshot.png)
+
+##Licence
+
+[MIT Licence](https://opensource.org/licenses/MIT)
